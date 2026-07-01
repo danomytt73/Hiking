@@ -9,6 +9,12 @@ See [`project-overview.md`](project-overview.md) for the multi-year project
 context — constraints, seasonal window, fitness baseline, and the full
 section-by-section seasonal calendar.
 
+## Cross-cutting references
+
+Topics that span all sections:
+
+- [`shuttle-logistics.md`](shuttle-logistics.md) — transportation and shuttle strategy for OT section hiking
+
 ## Structure
 
 Each hike section lives in its own folder under `planning/`. Cross-cutting
