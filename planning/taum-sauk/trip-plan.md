@@ -17,7 +17,7 @@
 - Shuttle: Friend drives back from JSI on Day 3 Sunday (no commercial shuttle needed)
 - Backcountry registration: mostateparks.com (complete before departure)
 - Navigation: OTA GPX downloaded, loaded into AllTrails; nav stack is Garmin Fenix 7 + iPhone 17 Pro (paired, GPX courses on both) with paper map + compass as the no-battery backstop
-- Satellite communication: Garmin inReach Mini 2 (standalone) for solo-trip SOS/messaging — Fenix 7 is the base model and can't provide this
+- Satellite communication: Garmin inReach Mini 3 Plus (standalone, $500) for solo-trip SOS/messaging — Fenix 7 is the base model and can't provide this; chosen over the inReach Messenger Plus at the same price for its standalone navigation and color touchscreen
 - Water strategy: Sawyer filter + Aquatabs backup; key sources mapped
 
 ---
