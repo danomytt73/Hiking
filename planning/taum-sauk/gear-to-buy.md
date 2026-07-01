@@ -11,11 +11,14 @@ Trip: Hwy 21 → Johnson's Shut-Ins | 35 miles | 3 days | Mid-to-late October
 - [ ] **Sawyer Squeeze or Sawyer Mini water filter** — essential for creek/spring water; Padfield Branch and Taum Sauk Creek are primary sources; long dry stretches make a reliable filter non-negotiable
   - Sawyer Squeeze recommended over Mini for flow rate on a 3-day trip with high water demand
   - Bring a backup chemical option (Aquatabs) as redundancy
-- [ ] **Dedicated GPS device** — Garmin inReach Mini 2 or Garmin eTrex series
-  - GPX already downloaded from OTA; needs to be loaded onto device
-  - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread)
-  - inReach Mini 2 adds satellite messaging / SOS for solo travel — strong recommendation for a solo 3-day trip
-  - eTrex 32x is the budget navigation-only option if SOS not a priority
+- [ ] **Satellite communicator** — decided: standalone **Garmin inReach Mini 3 Plus** ($500), for solo-trip SOS/messaging (Fenix 7 is the base model, no satellite hardware, can't substitute for this)
+  - Chosen over the inReach Messenger Plus (also $500): Mini 3 Plus adds standalone GPS navigation (waypoints, point-to-point, TracBack) as a third redundancy layer beyond Fenix 7 + iPhone, plus a color touchscreen that's easier to compose messages on under stress — and now matches the Messenger Plus's photo/voice satellite messaging via its Iridium Certus + IMT module, so nothing is given up on that front
+  - Mini 2 is the outgoing/prior-generation model — being phased out in favor of Mini 3 / Mini 3 Plus
+  - Navigation stack decided: **Fenix 7 + iPhone 17 Pro**, paired, GPX courses loaded on both — plus paper map + compass as the no-battery final backstop
+  - A separate eTrex 32x is not needed given this stack
+  - GPX already downloaded from OTA; load onto Fenix 7 via Garmin Connect and onto iPhone via AllTrails
+  - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread) — the map/compass backstop matters here, not just electronics
+- [ ] **Baseplate compass with adjustable declination ring** (e.g. Suunto MC-2, Silva Ranger) — not currently owned; needed as the no-battery backstop alongside paper maps, and required for map & compass practice hikes (see `trip-plan.md` Skills to Develop)
 - [ ] **Sawyer Permethrin Clothing & Gear Spray** (~$15) — treat socks, gaiters, pants, shirt 24–48 hrs before departure; apply outdoors, dry fully before wearing or storing near pets
   - Pairs with DEET repellent (20–30%) on exposed skin during hiking hours
   - One treatment survives 4–6 washes; covers the full trip
