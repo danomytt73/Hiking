@@ -38,7 +38,7 @@
 
 ### 2. Photography Planning
 
-**Status:** Not started
+**Status:** In progress — see [`photography.md`](photography.md) (lens, camera carry, and polarizer decided)
 **Scope:**
 
 - Camera body and lens selection for landscape/water work

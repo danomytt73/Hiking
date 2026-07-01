@@ -22,3 +22,4 @@ section folder until they become general enough to promote to a shared folder.
 - [`taum-sauk/overview.md`](taum-sauk/overview.md) — project handoff summary (trip plan, trail intel, gear, open questions)
 - [`taum-sauk/trip-plan.md`](taum-sauk/trip-plan.md) — master project tracker (planning topics, skills, reading list, open questions)
 - [`taum-sauk/gear-to-buy.md`](taum-sauk/gear-to-buy.md) — gear purchase checklist for the Taum Sauk trip
+- [`taum-sauk/photography.md`](taum-sauk/photography.md) — camera gear planning (lens, camera carry, polarizer)

@@ -35,9 +35,16 @@ Trip: Hwy 21 → Johnson's Shut-Ins | 35 miles | 3 days | Mid-to-late October
 
 ---
 
+## Added from Photography Planning
+
+- [ ] **77mm slim circular polarizer** — for the RF 14-35mm f/4L; top candidates Breakthrough Photography X4 or B+W XS-Pro; slim profile is critical to avoid vignetting at 14mm (see [`photography.md`](photography.md))
+- [ ] **Camera insert / cube** — Shimoda Small Core Unit or F-Stop Small ICU; lens stays attached at all times to minimize dust and mount wear; *pending Zpacks pack selection* (insert sizing depends on pack internal dimensions)
+
+---
+
 ## Still Evaluating
 
-- Polarizing filter for camera (strong recommendation for JSI rhyolite/water shots)
+- Polarizing filter for camera (strong recommendation for JSI rhyolite/water shots) — *now committed; see Photography Planning above*
 - ND filter (6-stop) for Mina Sauk Falls
 
 ---
