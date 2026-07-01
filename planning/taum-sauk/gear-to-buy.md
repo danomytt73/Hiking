@@ -11,12 +11,11 @@ Trip: Hwy 21 → Johnson's Shut-Ins | 35 miles | 3 days | Mid-to-late October
 - [ ] **Sawyer Squeeze or Sawyer Mini water filter** — essential for creek/spring water; Padfield Branch and Taum Sauk Creek are primary sources; long dry stretches make a reliable filter non-negotiable
   - Sawyer Squeeze recommended over Mini for flow rate on a 3-day trip with high water demand
   - Bring a backup chemical option (Aquatabs) as redundancy
-- [ ] **Satellite communication device** (may or may not bundle GPS navigation) — Garmin inReach Mini 2 (standalone) vs. Garmin eTrex series (nav-only, no satcom) vs. pairing existing **Garmin Fenix 7** as a wrist remote for a separate inReach communicator
-  - GPX already downloaded from OTA; needs to be loaded onto whatever device is chosen
-  - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread)
-  - inReach Mini 2 adds satellite messaging / SOS for solo travel — strong recommendation for a solo 3-day trip
-  - eTrex 32x is the budget navigation-only option if SOS not a priority
-  - **Confirm exact Fenix 7 model first:** the base Fenix 7 has no satellite hardware at all. Only the **Fenix 7 Pro** supports "inReach Remote" — and that still requires pairing to a separate, separately-subscribed inReach satellite communicator (e.g. Mini 2); the watch itself doesn't replace the standalone device, it just lets you trigger SOS/messages from the wrist without digging the unit out of the pack
+- [ ] **Satellite communicator (SOS/messaging)** — confirmed: Fenix 7 is the **base model, not Pro**, so it has no satellite hardware and can't pair as an inReach Remote. Decision simplifies to: buy a standalone **Garmin inReach Mini 2** for satellite SOS/messaging, or skip satcom and rely on cell coverage + a shared itinerary
+  - Fenix 7 (base) already supports loading GPX courses for on-wrist turn-by-turn/breadcrumb navigation — likely makes a separate eTrex 32x unnecessary regardless of the satcom decision
+  - GPX already downloaded from OTA; load onto the Fenix 7 via Garmin Connect
+  - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread) — good reason to have a real dedicated nav device rather than relying on phone alone
+  - inReach Mini 2 remains the strong recommendation for solo SOS/messaging given no cell coverage on most of this route
 - [ ] **Sawyer Permethrin Clothing & Gear Spray** (~$15) — treat socks, gaiters, pants, shirt 24–48 hrs before departure; apply outdoors, dry fully before wearing or storing near pets
   - Pairs with DEET repellent (20–30%) on exposed skin during hiking hours
   - One treatment survives 4–6 washes; covers the full trip
