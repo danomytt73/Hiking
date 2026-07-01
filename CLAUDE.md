@@ -4,15 +4,18 @@ Guidance for AI assistants (and humans) working in this repository.
 
 ## Current state of the repository
 
-This repository is a **blank slate**. As of this writing it contains only:
+This repository currently holds **planning and knowledge documents**, not
+software. As of this writing it contains:
 
 - `README.md` — a single-line title (`# Hiking`)
 - `CLAUDE.md` — this file
+- `planning/` — markdown planning docs for section-hiking the Ozark Trail (OT)
+  in Missouri (see layout below)
 
-There is **no source code, build system, dependency manifest, test suite, or CI
-configuration yet.** No language or framework has been chosen. Treat any task
-here as greenfield work: you are likely creating the project's initial
-structure rather than modifying existing code.
+There is still **no source code, build system, dependency manifest, test suite,
+or CI configuration.** No language or framework has been chosen. If a task asks
+for application code, treat it as greenfield work and confirm the intended stack
+first.
 
 > Keep this file honest. When real code, tooling, or conventions land, replace
 > the relevant sections below with concrete, verified details (build/test/lint
@@ -20,10 +23,38 @@ structure rather than modifying existing code.
 
 ## What the project is
 
-Based on the name and README, this is intended to be a project called
-**Hiking**. The scope, platform, and technology stack have not been defined.
-If the intended purpose is unclear from the task description, ask the user
+**Hiking** is Dan's personal planning space for section-hiking the full **Ozark
+Trail** over multiple years, with landscape and nature photography as a co-equal
+goal. The content is captured from planning conversations and stored as markdown
+so it can be loaded as context in future chats. No software scope, platform, or
+technology stack has been defined; if a task implies building an application, ask
 before scaffolding a stack, since that decision is hard to reverse.
+
+## Repository layout
+
+```
+planning/
+├── README.md            # index: section calendar + document map
+├── project-overview.md  # multi-year plan, constraints, seasonal calendar
+├── shuttle-logistics.md # cross-cutting transportation/shuttle strategy
+└── taum-sauk/           # first planned section (Hwy 21 → Johnson's Shut-Ins)
+    ├── overview.md      # project handoff summary
+    ├── trip-plan.md     # master project tracker
+    ├── gear-to-buy.md   # gear purchase checklist
+    └── photography.md   # camera gear planning
+```
+
+### Planning document conventions
+
+- Each **trail section** gets its own folder under `planning/` (e.g.
+  `planning/taum-sauk/`); section sub-topics (gear, photography, etc.) are
+  sibling files within it.
+- **Cross-cutting topics** that span all sections live at the top level of
+  `planning/` (e.g. `shuttle-logistics.md`).
+- `planning/README.md` is the index — keep its sections table and document map
+  in sync whenever you add or move a file.
+- Documents are captured from planning chats; preserve their content faithfully
+  and cross-link related docs so navigation stays easy.
 
 ## Development workflow
 
