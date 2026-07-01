@@ -2,6 +2,8 @@
 
 This document captures everything established in the initial planning chat so it can be loaded as context in Claude Code or a new Claude project chat.
 
+> **Related:** [`gear-to-buy.md`](gear-to-buy.md) — detailed gear purchase checklist for this trip.
+
 ---
 
 ## Project Overview

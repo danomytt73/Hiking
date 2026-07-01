@@ -20,3 +20,4 @@ section folder until they become general enough to promote to a shared folder.
 ## Taum Sauk documents
 
 - [`taum-sauk/overview.md`](taum-sauk/overview.md) — project handoff summary (trip plan, trail intel, gear, open questions)
+- [`taum-sauk/gear-to-buy.md`](taum-sauk/gear-to-buy.md) — gear purchase checklist for the Taum Sauk trip
