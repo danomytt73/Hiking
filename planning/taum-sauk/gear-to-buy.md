@@ -16,6 +16,7 @@ Trip: Hwy 21 → Johnson's Shut-Ins | 35 miles | 3 days | Mid-to-late October
   - A separate eTrex 32x is not needed given this stack
   - GPX already downloaded from OTA; load onto Fenix 7 via Garmin Connect and onto iPhone via AllTrails
   - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread) — the map/compass backstop matters here, not just electronics
+- [ ] **Baseplate compass with adjustable declination ring** (e.g. Suunto MC-2, Silva Ranger) — not currently owned; needed as the no-battery backstop alongside paper maps, and required for map & compass practice hikes (see `trip-plan.md` Skills to Develop)
 - [ ] **Sawyer Permethrin Clothing & Gear Spray** (~$15) — treat socks, gaiters, pants, shirt 24–48 hrs before departure; apply outdoors, dry fully before wearing or storing near pets
   - Pairs with DEET repellent (20–30%) on exposed skin during hiking hours
   - One treatment survives 4–6 washes; covers the full trip
