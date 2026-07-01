@@ -16,7 +16,8 @@
 - Day 3: Slow morning at JSI, photography at shut-ins
 - Shuttle: Friend drives back from JSI on Day 3 Sunday (no commercial shuttle needed)
 - Backcountry registration: mostateparks.com (complete before departure)
-- Navigation: OTA GPX downloaded, loaded into AllTrails; sync to dedicated GPS once purchased
+- Navigation: OTA GPX downloaded, loaded into AllTrails; nav stack is Garmin Fenix 7 + iPhone 17 Pro (paired, GPX courses on both) with paper map + compass as the no-battery backstop
+- Satellite communication: Garmin inReach Mini 2 (standalone) for solo-trip SOS/messaging — Fenix 7 is the base model and can't provide this
 - Water strategy: Sawyer filter + Aquatabs backup; key sources mapped
 
 ---
@@ -162,7 +163,7 @@
 
 - **Rope & knot tying** — relevant for 5-day+ sections where food hangs are essential in higher bear pressure areas; core knots: PCT two-stick hang, bowline, trucker's hitch, clove hitch; 50' of 1/8" Dyneema or 550 paracord covers most needs; YouTube channels like "Animated Knots" are the best way to learn and retain these
 - **Wilderness first aid** — NOLS Wilderness First Aid (2-day course) is the practical standard for solo backpackers; covers patient assessment, splinting, evacuation decisions; worth completing before any trip 4+ days solo
-- **Navigation / map & compass** — CalTopo and Gaia are powerful but a topo map and compass is the no-battery backstop; practice reading contour lines on the Taum Sauk section before the trip as a low-stakes starting point
+- **Navigation / map & compass** — no longer a someday skill: paper map + compass is the chosen no-battery backstop for the Taum Sauk nav stack (alongside Fenix 7 + iPhone 17 Pro), so this needs to be a real, practiced capability before the trip, not just theory. Core skills to build: orienting the map to terrain, taking and following a bearing, triangulation/resection to fix position, pace counting for distance. Practice on the Taum Sauk topo and at a local park before departure
 
 ---
 
@@ -225,7 +226,6 @@
 ## Open Questions
 
 - Exact October trip dates (needed for: fall color timing, permit, parking confirmation, friend coordination)
-- Satellite communicator decision: buy a standalone inReach Mini 2 for SOS/messaging, or skip satcom — confirmed Fenix 7 is the base model (no satellite hardware, can't pair as an inReach Remote); the Fenix 7 can still serve as the GPS navigation device via loaded GPX courses, making a separate eTrex 32x likely unnecessary
 - Power solution decision (solar combo vs. battery bank only)
 - Boot decision (keep Keens vs. new footwear — explore in separate chat)
 - Bear hang / food storage: what's standard practice on Mark Twain NF dispersed camping?

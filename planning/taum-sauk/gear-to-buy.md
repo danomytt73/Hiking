@@ -11,11 +11,11 @@ Trip: Hwy 21 → Johnson's Shut-Ins | 35 miles | 3 days | Mid-to-late October
 - [ ] **Sawyer Squeeze or Sawyer Mini water filter** — essential for creek/spring water; Padfield Branch and Taum Sauk Creek are primary sources; long dry stretches make a reliable filter non-negotiable
   - Sawyer Squeeze recommended over Mini for flow rate on a 3-day trip with high water demand
   - Bring a backup chemical option (Aquatabs) as redundancy
-- [ ] **Satellite communicator (SOS/messaging)** — confirmed: Fenix 7 is the **base model, not Pro**, so it has no satellite hardware and can't pair as an inReach Remote. Decision simplifies to: buy a standalone **Garmin inReach Mini 2** for satellite SOS/messaging, or skip satcom and rely on cell coverage + a shared itinerary
-  - Fenix 7 (base) already supports loading GPX courses for on-wrist turn-by-turn/breadcrumb navigation — likely makes a separate eTrex 32x unnecessary regardless of the satcom decision
-  - GPX already downloaded from OTA; load onto the Fenix 7 via Garmin Connect
-  - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread) — good reason to have a real dedicated nav device rather than relying on phone alone
-  - inReach Mini 2 remains the strong recommendation for solo SOS/messaging given no cell coverage on most of this route
+- [ ] **Satellite communicator** — decided: standalone **Garmin inReach Mini 2**, for solo-trip SOS/messaging (Fenix 7 is the base model, no satellite hardware, can't substitute for this)
+  - Navigation stack decided: **Fenix 7 + iPhone 17 Pro**, paired, GPX courses loaded on both — plus paper map + compass as the no-battery final backstop
+  - A separate eTrex 32x is not needed given this stack
+  - GPX already downloaded from OTA; load onto Fenix 7 via Garmin Connect and onto iPhone via AllTrails
+  - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread) — the map/compass backstop matters here, not just electronics
 - [ ] **Sawyer Permethrin Clothing & Gear Spray** (~$15) — treat socks, gaiters, pants, shirt 24–48 hrs before departure; apply outdoors, dry fully before wearing or storing near pets
   - Pairs with DEET repellent (20–30%) on exposed skin during hiking hours
   - One treatment survives 4–6 washes; covers the full trip
