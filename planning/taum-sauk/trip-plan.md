@@ -225,7 +225,7 @@
 ## Open Questions
 
 - Exact October trip dates (needed for: fall color timing, permit, parking confirmation, friend coordination)
-- Dedicated GPS device decision (inReach Mini 2 vs. eTrex 32x)
+- Satellite communication device decision (inReach Mini 2 standalone vs. eTrex 32x nav-only vs. inReach Mini 2 paired to a Garmin Fenix 7 Pro as a wrist remote) — confirm exact Fenix 7 model first, since only the Pro supports inReach Remote pairing, and it still requires a separate satcom device + subscription
 - Power solution decision (solar combo vs. battery bank only)
 - Boot decision (keep Keens vs. new footwear — explore in separate chat)
 - Bear hang / food storage: what's standard practice on Mark Twain NF dispersed camping?

@@ -11,11 +11,12 @@ Trip: Hwy 21 → Johnson's Shut-Ins | 35 miles | 3 days | Mid-to-late October
 - [ ] **Sawyer Squeeze or Sawyer Mini water filter** — essential for creek/spring water; Padfield Branch and Taum Sauk Creek are primary sources; long dry stretches make a reliable filter non-negotiable
   - Sawyer Squeeze recommended over Mini for flow rate on a 3-day trip with high water demand
   - Bring a backup chemical option (Aquatabs) as redundancy
-- [ ] **Dedicated GPS device** — Garmin inReach Mini 2 or Garmin eTrex series
-  - GPX already downloaded from OTA; needs to be loaded onto device
+- [ ] **Satellite communication device** (may or may not bundle GPS navigation) — Garmin inReach Mini 2 (standalone) vs. Garmin eTrex series (nav-only, no satcom) vs. pairing existing **Garmin Fenix 7** as a wrist remote for a separate inReach communicator
+  - GPX already downloaded from OTA; needs to be loaded onto whatever device is chosen
   - Trail navigation gets tricky in the Bell Mountain area southbound (few blazes, disappearing tread)
   - inReach Mini 2 adds satellite messaging / SOS for solo travel — strong recommendation for a solo 3-day trip
   - eTrex 32x is the budget navigation-only option if SOS not a priority
+  - **Confirm exact Fenix 7 model first:** the base Fenix 7 has no satellite hardware at all. Only the **Fenix 7 Pro** supports "inReach Remote" — and that still requires pairing to a separate, separately-subscribed inReach satellite communicator (e.g. Mini 2); the watch itself doesn't replace the standalone device, it just lets you trigger SOS/messages from the wrist without digging the unit out of the pack
 - [ ] **Sawyer Permethrin Clothing & Gear Spray** (~$15) — treat socks, gaiters, pants, shirt 24–48 hrs before departure; apply outdoors, dry fully before wearing or storing near pets
   - Pairs with DEET repellent (20–30%) on exposed skin during hiking hours
   - One treatment survives 4–6 washes; covers the full trip
